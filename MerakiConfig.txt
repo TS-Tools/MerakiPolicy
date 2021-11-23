@@ -1,0 +1,2 @@
+{"protocol":"any", "srcPort":"Any", "srcCidr":"192.168.10.1/32", "destPort":"Any", "destCidr":"8.8.8.8/32", "policy":"deny", "syslogEnabled":false, "comment":""}
+

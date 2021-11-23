@@ -16,11 +16,11 @@ Note the file it outputs as Meraki-Config<timestamp>.txt
 
 then run the check script with an arguement to search for 8.8.8.8 in the MerakiConfig.txt
   
-python3 2b-MerakiCheckL3Rules.py --var1 8.8.8.8
+python3 MerakiCheckL3Rules.py --var1 8.8.8.8
 
 A Sample L3 policy file is provided.
   
-## Acknoledgements
+## Acknowledgements
 
 Meraki Automation team for the MX Control Script.
 https://github.com/meraki/automation-scripts
